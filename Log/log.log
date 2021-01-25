@@ -1,0 +1,1022 @@
+[ERROR 2020-09-25 21:40:24]statusCode error,expected_code is 300,statusCode is 200
+[INFO 2020-09-27 15:09:58]初始化配置文件，path=D:\apiTest\Conf\config.ini
+[INFO 2020-09-27 15:29:16]初始化配置文件，path=D:\apiTest\Conf\config.ini
+[INFO 2020-09-27 15:30:20]初始化配置文件，path=D:\apiTest\Conf\config.ini
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[ERROR 2020-09-27 15:30:23]statusCode error,expected_code is 300,statusCode is 200
+[INFO 2020-09-27 15:32:54]初始化配置文件，path=D:\apiTest\Conf\config.ini
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[ERROR 2020-09-27 15:32:55]statusCode error,expected_code is 300,statusCode is 200
+[INFO 2020-09-27 15:35:28]初始化配置文件，path=D:\apiTest\Conf\config.ini
+[INFO 2020-09-27 15:42:07]初始化配置文件，path=D:\apiTest\Conf\config.ini
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[ERROR 2020-09-27 15:42:08]statusCode error,expected_code is 300,statusCode is 200
+[INFO 2020-09-27 16:59:43]初始化配置文件，path=D:\apiTest\Conf\config.ini
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[ERROR 2020-09-27 16:59:44]statusCode error,expected_code is 300,statusCode is 200
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[INFO 2020-09-27 17:01:42]初始化配置文件，path=D:\apiTest\Conf\config.ini
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[ERROR 2020-09-27 17:01:43]statusCode error,expected_code is 300,statusCode is 200
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[INFO 2020-09-27 17:02:48]初始化配置文件，path=D:\apiTest\Conf\config.ini
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[ERROR 2020-09-27 17:02:49]statusCode error,expected_code is 300,statusCode is 200
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[INFO 2020-09-27 17:08:40]初始化配置文件，path=D:\apiTest\Conf\config.ini
+[INFO 2020-09-27 17:09:55]初始化配置文件，path=D:\apiTest\Conf\config.ini
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[ERROR 2020-09-27 17:09:56]statusCode error,expected_code is 300,statusCode is 200
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[INFO 2020-09-27 17:13:37]初始化配置文件，path=D:\apiTest\Conf\config.ini
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[ERROR 2020-09-27 17:13:38]statusCode error,expected_code is 300,statusCode is 200
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[INFO 2020-09-27 17:14:55]初始化配置文件，path=D:\apiTest\Conf\config.ini
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[ERROR 2020-09-27 17:14:56]statusCode error,expected_code is 300,statusCode is 200
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[INFO 2020-09-27 18:06:12]初始化配置文件，path=D:\apiTest\Conf\config.ini
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[ERROR 2020-09-27 18:06:19]statusCode error,expected_code is 300,statusCode is 200
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[ERROR 2020-09-27 18:06:19]statusCode error,expected_code is 300,statusCode is 200
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[INFO 2020-09-27 18:07:24]初始化配置文件，path=D:\apiTest\Conf\config.ini
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[ERROR 2020-09-27 18:07:25]statusCode error,expected_code is 300,statusCode is 200
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[ERROR 2020-09-27 18:07:25]statusCode error,expected_code is 300,statusCode is 200
+Starting new HTTP connection (1): 39.105.34.24:8888
+http://39.105.34.24:8888 "POST /apis/login HTTP/1.1" 200 None
+EUC-JP Japanese prober hit error at byte 9
+EUC-KR Korean prober hit error at byte 9
+CP949 Korean prober hit error at byte 9
+Big5 Chinese prober hit error at byte 12
+EUC-TW Taiwan prober hit error at byte 9
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+windows-1251 Russian confidence = 0.01
+KOI8-R Russian confidence = 0.01
+ISO-8859-5 Russian confidence = 0.0
+MacCyrillic Russian confidence = 0.0
+IBM866 Russian confidence = 0.10429218468120742
+IBM855 Russian confidence = 0.0
+ISO-8859-7 Greek confidence = 0.01
+windows-1253 Greek confidence = 0.01
+ISO-8859-5 Bulgairan confidence = 0.0
+windows-1251 Bulgarian confidence = 0.01
+TIS-620 Thai confidence = 0.01
+ISO-8859-9 Turkish confidence = 0.5094805588048057
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+windows-1255 Hebrew confidence = 0.0
+utf-8  confidence = 0.938125
+SHIFT_JIS Japanese confidence = 0.01
+EUC-JP not active
+GB2312 Chinese confidence = 0.01
+EUC-KR not active
+CP949 not active
+Big5 not active
+EUC-TW not active
+[INFO 2021-01-16 19:17:10]初始化配置文件，path=D:\apiTest\Conf\config.ini
+Starting new HTTP connection (1): 39.105.34.24:8888
+Starting new HTTP connection (1): 39.105.34.24:8888
+Starting new HTTP connection (1): 39.105.34.24:8888
+Starting new HTTP connection (1): 39.105.34.24:8888

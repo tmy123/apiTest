@@ -1,0 +1,1 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:205 Starting new HTTP connection (1): 39.105.34.24:8888

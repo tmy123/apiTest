@@ -1,0 +1,9 @@
+login:
+  dec: "登录"
+  parameters:
+    -
+      url: /apis/login
+      data:
+          userName: admin
+          password: 123456
+      header:

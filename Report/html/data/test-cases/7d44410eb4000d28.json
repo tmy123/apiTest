@@ -1,0 +1,89 @@
+{
+  "uid" : "7d44410eb4000d28",
+  "name" : "test_login_01",
+  "fullName" : "TestCase.test_login1.TestLogin#test_login_01",
+  "historyId" : "4c8673bab5a24e7801b2ac8610a838ee",
+  "time" : {
+    "start" : 1601201245391,
+    "stop" : 1601201245511,
+    "duration" : 120
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError",
+  "statusTrace" : "self = <test_login1.TestLogin object at 0x0000000004702400>\n\n    def test_login_01(self):\n        conf = Config()\n        data = Login()\n        test = Assert.Assertions()\n        request = Request.Request()\n    \n        host = conf.host_debug\n        #req_url = \"http://\" + host\n        urls = data.url\n        params = data.data\n        headers = data.header\n    \n        api_url = host + urls[0]\n        response = request.post_request(api_url,params[0],headers[0])\n>       assert test.assert_code(response['code'],300)\n\nTestCase\\test_login1.py:35: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Common.Assert.Assertions object at 0x0000000004702470>, code = 200\nexpected_code = 300\n\n    def assert_code(self,code,expected_code):\n        \"\"\"\n        验证返回状态吗\n        :param code:\n        :param expected_code:\n        :return:\n        \"\"\"\n        try:\n>           assert code == expected_code\nE           AssertionError\n\nCommon\\Assert.py:21: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError",
+    "statusTrace" : "self = <test_login1.TestLogin object at 0x0000000004702400>\n\n    def test_login_01(self):\n        conf = Config()\n        data = Login()\n        test = Assert.Assertions()\n        request = Request.Request()\n    \n        host = conf.host_debug\n        #req_url = \"http://\" + host\n        urls = data.url\n        params = data.data\n        headers = data.header\n    \n        api_url = host + urls[0]\n        response = request.post_request(api_url,params[0],headers[0])\n>       assert test.assert_code(response['code'],300)\n\nTestCase\\test_login1.py:35: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <Common.Assert.Assertions object at 0x0000000004702470>, code = 200\nexpected_code = 300\n\n    def assert_code(self,code,expected_code):\n        \"\"\"\n        验证返回状态吗\n        :param code:\n        :param expected_code:\n        :return:\n        \"\"\"\n        try:\n>           assert code == expected_code\nE           AssertionError\n\nCommon\\Assert.py:21: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7f44dfa345722b8d",
+      "name" : "log",
+      "source" : "7f44dfa345722b8d.txt",
+      "type" : "text/plain",
+      "size" : 3493
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Login"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "feature",
+    "value" : "Home"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_login1"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "YLMF-1804022100"
+  }, {
+    "name" : "thread",
+    "value" : "14428-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCase.test_login1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "7d44410eb4000d28.json",
+  "parameterValues" : [ ]
+}
